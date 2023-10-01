@@ -5,7 +5,7 @@
 Johns Hopkins University  
 Department of Electrical and Computer Engineering  
 Baltimore, USA  
-joshua.ball@jhu.edu
+jball20@jh.edu
 
 ---
 
